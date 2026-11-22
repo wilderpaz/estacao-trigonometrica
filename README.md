@@ -11,11 +11,16 @@
   <img src="https://img.shields.io/badge/Acessibilidade-DUA-purple" alt="Acessibilidade DUA" />
 </p>
 
-<!-- FIGURA DO CICLO TRIGONOMÉTRICO EM SVG -->
 <p align="center">
-<svg width="420" height="460" viewBox="0 0 480 520" role="img" aria-labelledby="titulo-ciclo descricao-ciclo" xmlns="http://www.w3.org/2000/svg">
-  <title id="titulo-ciclo">Ciclo Trigonométrico</title>
-  <desc id="descricao-ciclo">Círculo unitário com raio 1, eixos X e Y, ângulo de 45 graus, projeções do seno e do cosseno e quadrantes numerados fora do círculo.</desc>
+<img src="img/ciclo-trigonometrico.svg" alt="Ciclo Trigonométrico com raio 1, projeções de seno e cosseno e quadrantes numerados" width="420" />
+</p>
+
+<p align="center">
+<i>Figura 1 - Ciclo trigonométrico com raio unitário, projeções de seno e cosseno e quadrantes numerados.</i>
+</p>
+
+<h1 align="center">📐 Estação Trigonométrica: Desafio do Ciclo Maker</h1>
+<h3 align="center">📖 Manual de Uso</h3>
 
   <!-- Fundo -->
   <rect x="0" y="0" width="480" height="520" rx="24" fill="#F2F8FF" stroke="#0B2D5A" stroke-width="3"/>
