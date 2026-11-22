@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img src="img/ciclo-trigonometrico.svg" alt="Ciclo Trigonométrico com raio 1, projeções de seno e cosseno e quadrantes numerados" width="420" />
+<img src="img/Ciclo-trigonometrico.svg" alt="Ciclo Trigonométrico com raio 1, projeções de seno e cosseno e quadrantes numerados" width="420" />
 </p>
 
 <p align="center">
