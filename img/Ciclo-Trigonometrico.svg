@@ -1,0 +1,46 @@
+<svg width="420" height="460" viewBox="0 0 480 520" role="img" aria-labelledby="titulo-ciclo descricao-ciclo" xmlns="http://www.w3.org/2000/svg">
+  <title id="titulo-ciclo">Ciclo Trigonométrico</title>
+  <desc id="descricao-ciclo">Círculo unitário com raio 1, eixos X e Y, ângulo de 45 graus, projeções do seno e do cosseno e quadrantes numerados fora do círculo.</desc>
+  <rect x="0" y="0" width="480" height="520" rx="24" fill="#F2F8FF" stroke="#0B2D5A" stroke-width="3"/>
+  <text x="240" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B2D5A">CICLO TRIGONOMÉTRICO</text>
+  <text x="240" y="68" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#0B2D5A">R = 1 • sen • cos • tg</text>
+  <defs>
+    <clipPath id="recorteCirculo">
+      <circle cx="240" cy="280" r="160" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#recorteCirculo)">
+    <rect x="240" y="120" width="160" height="160" fill="#D9F7E8" />
+    <rect x="80" y="120" width="160" height="160" fill="#D6EDFF" />
+    <rect x="80" y="280" width="160" height="160" fill="#FFE8F1" />
+    <rect x="240" y="280" width="160" height="160" fill="#FFF6CC" />
+  </g>
+  <line x1="400" y1="90" x2="400" y2="470" stroke="#FF6B00" stroke-width="2" stroke-dasharray="8 6" />
+  <text x="410" y="110" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FF6B00">eixo tg</text>
+  <text x="410" y="128" font-family="Arial, sans-serif" font-size="13" fill="#FF6B00">x = 1</text>
+  <line x1="60" y1="280" x2="430" y2="280" stroke="#0B2D5A" stroke-width="3" />
+  <line x1="240" y1="100" x2="240" y2="460" stroke="#0B2D5A" stroke-width="3" />
+  <text x="435" y="275" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#0B2D5A">X</text>
+  <text x="248" y="105" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#0B2D5A">Y</text>
+  <text x="248" y="298" font-family="Arial, sans-serif" font-size="13" fill="#0B2D5A">0</text>
+  <circle cx="240" cy="280" r="160" fill="none" stroke="#0B2D5A" stroke-width="4" />
+  <line x1="353" y1="167" x2="353" y2="280" stroke="#00C6FB" stroke-width="3" stroke-dasharray="7 5" />
+  <line x1="353" y1="167" x2="240" y2="167" stroke="#00E676" stroke-width="3" stroke-dasharray="7 5" />
+  <line x1="240" y1="280" x2="353" y2="167" stroke="#0B2D5A" stroke-width="4" stroke-linecap="round" />
+  <circle cx="353" cy="167" r="8" fill="#0B2D5A" />
+  <text x="360" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0B2D5A">P</text>
+  <text x="285" y="215" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0B2D5A">R = 1</text>
+  <path d="M 300 280 A 60 60 0 0 0 282 237" fill="none" stroke="#FF0000" stroke-width="3" />
+  <text x="302" y="262" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FF0000">45°</text>
+  <text x="300" y="305" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#0077B6">cos 45°</text>
+  <text x="130" y="195" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#008000">sen 45°</text>
+  <text x="410" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0B2D5A">1º</text>
+  <text x="410" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0B2D5A">Quadrante</text>
+  <text x="70" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0B2D5A">2º</text>
+  <text x="70" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0B2D5A">Quadrante</text>
+  <text x="70" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0B2D5A">3º</text>
+  <text x="70" y="452" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0B2D5A">Quadrante</text>
+  <text x="410" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0B2D5A">4º</text>
+  <text x="410" y="452" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0B2D5A">Quadrante</text>
+  <text x="240" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#0B2D5A">P = (cos θ, sen θ) • tg = sen / cos</text>
+</svg>
